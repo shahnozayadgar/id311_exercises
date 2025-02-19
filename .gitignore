@@ -1,0 +1,7 @@
+.vscode
+node_modules/**
+.git/**
+.DS_Store
+todo
+*_solution
+TODO/**
